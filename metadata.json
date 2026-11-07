@@ -1,0 +1,6 @@
+{
+  "name": "Leo tus Labios",
+  "description": "Lee los labios enfocando con la cámara de tu móvil. Subtítulos instantáneos y traducción en varios idiomas con Inteligencia Artificial.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
